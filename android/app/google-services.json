@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "475818072543",
+    "project_id": "radec-firebase",
+    "storage_bucket": "radec-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475818072543:android:5cc089535322ae72c50c6a",
+        "android_client_info": {
+          "package_name": "com.sianak.radec_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475818072543-tsamv4f5d3hdmlobu2dq9n4qpt4s9vpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sianak.radec_app",
+            "certificate_hash": "e448d8235f3a9ac4a6ee9d88e7ebd0ef67ae311c"
+          }
+        },
+        {
+          "client_id": "475818072543-38nutatq81nbch47ma9ipahh47lad6oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh68McH1vYFoHCcQMyB5Ib1ecjHmR29DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475818072543-38nutatq81nbch47ma9ipahh47lad6oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

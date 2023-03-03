@@ -1,0 +1,27 @@
+name: radec_app
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter: 
+    sdk: flutter  
+  firebase_core: 1.4.0
+  firebase_auth: 3.0.1
+  firebase_database: ^7.1.2
+  firebase_core_platform_interface: 4.4.1
+
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+
